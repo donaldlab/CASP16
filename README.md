@@ -6,4 +6,4 @@ Allen C. McBride, Feng Yu, Edward H. Cheng, Aulane Mpouli, Aimee C. Soe, Michal 
 
 Yang Qi, Jeffrey W. Martin, Adam W. Barb, François Thélot, Anthony K. Yan, Bruce R. Donald, and Terrence G. Oas. Continuous Interdomain Orientation Distributions Reveal Components of Binding Thermodynamics. J. Mol. Biol., vol. 430, no. 18 pt B, pp. 3412-3426, Sept, 2018, doi: 10.1016/j.jmb.2018.06.022.
 
-This software supports the above paper; its authors are Edward H. Cheng and Allen C. McBride.
+This software supports the first paper above; code authors are Edward H. Cheng and Allen C. McBride.
