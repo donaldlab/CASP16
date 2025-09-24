@@ -1,0 +1,51 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: CDIO Tools
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Edward H.
+    family-names: Cheng
+    email: hc370@duke.edu
+    affiliation: Duke University
+  - given-names: Allen C.
+    family-names: McBride
+    orcid: 'https://orcid.org/0000-0002-6332-5457'
+    email: allen.mcbride@duke.edu
+    affiliation: Duke University
+repository-code: 'https://github.com/donaldlab/CASP16'
+url: >-
+  https://www.biorxiv.org/content/10.1101/2025.04.27.650885v2
+license: GPL-2.0
+preferred-citation:
+  type: article
+  authors:
+  - given-names: Allen C.
+    family-names: McBride
+  - given-names: Feng
+    family-names: Yu
+  - given-names: Edward H.
+    family-names: Cheng
+  - given-names: Aulane
+    family-names: Mpouli
+  - given-names: Aimee C.
+    family-names: Soe
+  - given-names: Michal
+    family-names: Hammel
+  - given-names: Gaetano T.
+    family-names: Montelione
+  - given-names: Terrence G.
+    family-names: Oas
+  - given-names: Susan E.
+    family-names: Tsutakawa
+  - given-names: Bruce R.
+    family-names: Donald
+  doi: "10.1101/2025.04.27.650885"
+  journal: "bioRxiv"
+  month: 9
+  title: "Predicting pose distribution of protein domains connected by flexible linkers is an unsolved problem"
+  year: 2025
